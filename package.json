@@ -1,0 +1,29 @@
+{
+  "name": "mean-stack-angular-2",
+  "version": "1.0.0",
+  "description": "MEAN stack with Angular 2\u001b[D\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorPinchuk/mean-stack-angular-2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "Angular",
+    "2"
+  ],
+  "author": "Ihar Pinchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorPinchuk/mean-stack-angular-2/issues"
+  },
+  "homepage": "https://github.com/IgorPinchuk/mean-stack-angular-2#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.0"
+  }
+}
